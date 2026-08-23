@@ -1,0 +1,23 @@
+{
+  "name": "color-flood",
+  "version": "0.1.0",
+  "description": "Classic flood-fill puzzle game. Single HTML file, works offline, no tracking. Fill the board in 25 moves.",
+  "type": "module",
+  "scripts": {
+    "serve": "npx serve .",
+    "test": "echo 'Manual test: open index.html in browser'"
+  },
+  "keywords": [
+    "game",
+    "puzzle",
+    "flood-fill",
+    "flood-it",
+    "offline",
+    "single-file",
+    "web-app",
+    "color-game"
+  ],
+  "author": "trenysx",
+  "license": "Apache-2.0",
+  "engines": { "node": ">=18.0.0" }
+}
